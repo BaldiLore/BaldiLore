@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Kotlin, Quarkus, React, Kafka, K8S<br>🎯 Goals: Be Legen - WAIT FOR IT - dary<br>🎲 Fun fact: It’s all 0’s and 1’s</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Angular, Firebase<br>🎯 Goals: Be Legen - WAIT FOR IT - dary<br>🎲 Fun fact: It’s all 0’s and 1’s</p>
 
 ###
 

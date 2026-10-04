@@ -1,63 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Lorenzo
 
-###
+Backend developer from Italy, focused on Java and Spring Boot.
+I build and lead the development of enterprise applications for the Italian public administration, and in my spare time I write open source libraries for the Java ecosystem.
 
-<p align="left">My name is Lorenzo and I'm a Full-Stack Developer, from Italy</p>
+## About me
 
-###
+- ✨ Creating bugs since 2015
+- ☕ Day to day: Java 21, Spring Boot, Oracle and Kubernetes
+- 🔭 Working on: sheetsmith and more open source libraries for Spring Boot
+- 🎯 Goals: Be Legen - WAIT FOR IT - dary
 
-<h2 align="left">About me</h2>
+## 🔨 Featured project
+### sheetsmith
 
-###
+<a href="https://github.com/BaldiLore/sheetsmith">
+  <img src="https://raw.githubusercontent.com/BaldiLore/sheetsmith/master/docs/sheetsmith-banner.png" alt="sheetsmith: an annotated Java record turned into a styled Excel sheet" width="480">
+</a>
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Angular, Firebase<br>🎯 Goals: Be Legen - WAIT FOR IT - dary<br>🎲 Fun fact: It’s all 0’s and 1’s</p>
+Annotation-driven Excel (.xlsx) generation from Java POJOs and records, built on Apache POI, with Spring Boot auto-configuration.
 
-###
+[![Maven Central](https://img.shields.io/maven-central/v/cloud.baldilorenzo.sheetsmith/sheetsmith-spring-boot-starter)](https://central.sonatype.com/artifact/cloud.baldilorenzo.sheetsmith/sheetsmith-spring-boot-starter)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
 
-<h2 align="left">I code with</h2>
+📖 [Documentation](https://sheetsmith.baldilorenzo.cloud) · 💻 [Source code](https://github.com/BaldiLore/sheetsmith) · 💬 [Discussions](https://github.com/BaldiLore/sheetsmith/discussions)
 
-###
+## Tech stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="40" alt="redhatopenshift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kubernetes,git,angular,ts,cloudflare,postgres,mysql,astro" height="40" alt="Java, Spring, Hibernate, Maven, PostgreSQL, Kubernetes, Git, Angular, TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+</p>
 
-###
+## Find me
+
+🌐 [baldilorenzo.it](https://baldilorenzo.it) · ✉️ [dev@baldilorenzo.it](mailto:dev@baldilorenzo.it) · 💼 [LinkedIn](https://www.linkedin.com/in/%F0%9F%92%BBlorenzo-baldi-709b70202)
